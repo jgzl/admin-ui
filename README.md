@@ -174,6 +174,7 @@ Support modern browsers, not IE
 ## Maintainer
 
 [@Vben](https://github.com/anncwb)
+[@JGZL](https://github.com/jgzl)
 
 ## Donate
 
